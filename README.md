@@ -7,7 +7,7 @@ Statistical fitting for Hough mode extensions
 
 The developer hopes to expand the project into a general statistical fitting application for 'tricky' data to fit, for nonlinear or complex number data fitting requiring generalized statistical moment models.
 
-This program requires 'Apophenia' and the Gnu Scientific Library to be included in order to run. Apophenia is available at http://directory.fsf.org/wiki/Apophenia .
+This program requires 'Apophenia,' the Gnu Scientific Library, and the POSIX pthreads and semaphore libraries to be included in order to compile. Apophenia is available at http://directory.fsf.org/wiki/Apophenia .
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
